@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "ardraw.arreferenceimage"
+    },
+    {
+      "filename" : "draw.arreferenceimage"
+    },
+    {
+      "filename" : "ikea-2.arreferenceimage"
+    },
+    {
+      "filename" : "ikea.arreferenceimage"
+    },
+    {
+      "filename" : "Local.arreferenceimage"
+    },
+    {
+      "filename" : "Marker.arreferenceimage"
+    },
+    {
+      "filename" : "ml.arreferenceimage"
+    }
+  ]
+}
